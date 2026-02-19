@@ -1,0 +1,22 @@
+{
+  "status": "model_ready",
+  "description": "CIFAR-10 Image Classification Model",
+  "input_shape": [
+    32,
+    32,
+    3
+  ],
+  "num_classes": 10,
+  "class_labels": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ]
+}
